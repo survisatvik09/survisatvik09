@@ -9,7 +9,6 @@
 
 - 💻 I code in **JavaScript**, **TypeScript**, **React (.jsx / .tsx)**, **HTML**, **XML**, and more.
 - 🧠 I'm constantly learning and improving my backend & frontend skills.
-- 🌐 I host all my projects on a Contabo Ubuntu VPS using **PM2**, **Caddy**, and **Cloudflare Tunnels**.
 - 🛠️ My projects include:
   - 🖥️ [sfra.tech](https://sfra.tech) — Web platform
   - 🤖 [bots.sfra.tech](https://bots.sfra.tech) — Discord bot hosting & dashboards
