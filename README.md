@@ -1,19 +1,4 @@
 <h1 align="center">Hey there! 👋 I'm SurviSatvik</h1>
-<p align="center">
-  A passionate full-stack developer focused on building scalable websites and Discord bots.
-</p>
-
----
-
-### 🚀 About Me
-
-- 💻 I code in **JavaScript**, **TypeScript**, **React (.jsx / .tsx)**, **HTML**, **XML**, and more.
-- 🧠 I'm constantly learning and improving my backend & frontend skills.
-- 🛠️ My projects include:
-  - 🖥️ [sfra.tech](https://sfra.tech) — Web platform
-  - 🤖 [bots.sfra.tech](https://bots.sfra.tech) — Discord bot hosting & dashboards
-
----
 
 ### 🧰 Tech Stack
 
