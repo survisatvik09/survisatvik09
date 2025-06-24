@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,html,css,git,github,linux,bash,vscode,discordjs&perline=14" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,discordjs,html,css,git,github,vscode,&perline=14" />
 </p>
