@@ -10,5 +10,5 @@
 </table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,discordjs,html,css,git,github,vscode,npm,ubuntu,figma,docker&perline=18" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,discordjs,html,css,git,github,vscode,npm,ubuntu,docker&perline=18" />
 </p>
