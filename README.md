@@ -2,8 +2,6 @@
   <tr>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=survisatvik09&show_icons=true&theme=radical&count_private=true" />
-      <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=survisatvik09&theme=radical&hide_border=false" alt="GitHub Streak" />
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=survisatvik09&layout=compact&theme=radical&hide_border=false&langs_count=10" />
